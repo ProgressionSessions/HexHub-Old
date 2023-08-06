@@ -37,12 +37,12 @@ function VS_MESSAGE(TEXT,TIME)
 end
 
 if _G.HexHubLOADED then 
-	VS_MESSAGE("CARMLWARE IS ALREADY LOADED!",6.5)
+	VS_MESSAGE("HEXHUB V8 IS ALREADY LOADED!",6.5)
 else
 	_G.HexHubLOADED = true
 	VS_MESSAGE("Starting CarmlWare",6.5)
 
-	local Library = loadstring(game:HttpGet(("https://raw.githubusercontent.com/HexerMaster1929/CARMLWARE/main/UI/LIBRARY-LATEST.lua"),true))()--require(script.Parent)
+	local Library = loadstring(game:HttpGet(("https://raw.githubusercontent.com/MrolivesGaming/HexHub/main/UI/LIBRARY-LATEST.lua"),true))()--require(script.Parent)
 
 	-- Finds car before loading, Ensuring the GUI will work.
 	function findCar()
@@ -65,10 +65,10 @@ else
 
 
 	local Window = Library:CreateWindow({
-		Name = "CARMLWARE | VEHICLE SIMULATOR",
+		Name = "HEXHUB V8 | VEHICLE SIMULATOR",
 		ConfigurationSaving = {
 			Enabled = true,
-			FolderName = "CARMLWARE_SAVED_DATA", -- Create a custom folder for your hub/game
+			FolderName = "HEXHUB_SAVED_DATA", -- Create a custom folder for your hub/game
 			FileName = "VEHICLESIMULATOR"
 		},
 	})
@@ -563,7 +563,7 @@ else
 		end
 
 	end)
-	VS_MESSAGE("Carmlware Loaded, Enjoy!",6.5)
+	VS_MESSAGE("Hexhub V8 Loaded, Enjoy!",6.5)
 
 	Window:BindClose(function()
 		Library:Destroy()
