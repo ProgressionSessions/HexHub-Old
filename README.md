@@ -1,9 +1,9 @@
 # ABOUT
 
-CarmlWare is a ROBLOX Exploit hub Created by GINNIS SOFTWORKS [FORMERLY. HexHub Softworks]
+HexHub is A New Roblox Hub with tons of games Added daily!
 
-CarmlWare is the rebirth of Hexhus V7 Script with some better features and Interface design!
-
+Hexhub is a new exploit being Founded in late 2021, We have run a long way and have changed a lot!
+ 
 # LOADSTRING
 ```lua
 --[[
