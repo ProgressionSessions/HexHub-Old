@@ -6,10 +6,20 @@ CarmlWare is the rebirth of Hexhus V7 Script with some better features and Inter
 
 # LOADSTRING
 ```lua
-_G.CARMLWARE_LOADER = { --customizeable loader stuff
-	["LOADER_VERSION"] = "STABLE", -- STABLE = Stable Version Of The script that has been tested and confirmed as fully working, LATEST = Latest Version of the script that hasnt been fully tested but has Never features And/Or Unpatches   
-	["SAVE_24H_KEY"] =true, -- By default CarmlWare saves your key for 24HR, If you wanna disable this, feel free however then you will need to get a new key every time you execute the script
-}
+--[[
+ ██░ ██ ▓█████ ▒██   ██▒ ██░ ██  █    ██  ▄▄▄▄        
+▓██░ ██▒▓█   ▀ ▒▒ █ █ ▒░▓██░ ██▒ ██  ▓██▒▓█████▄ 
+▒██▀▀██░▒███   ░░  █   ░▒██▀▀██░▓██  ▒██░▒██▒ ▄██
+░▓█ ░██ ▒▓█  ▄  ░ █ █ ▒ ░▓█ ░██ ▓▓█  ░██░▒██░█▀  
+░▓█▒░██▓░▒████▒▒██▒ ▒██▒░▓█▒░██▓▒▒█████▓ ░▓█  ▀█▓
+ ▒ ░░▒░▒░░ ▒░ ░▒▒ ░ ░▓ ░ ▒ ░░▒░▒░▒▓▒ ▒ ▒ ░▒▓███▀▒
+ ▒ ░▒░ ░ ░ ░  ░░░   ░▒ ░ ▒ ░▒░ ░░░▒░ ░ ░ ▒░▒   ░ 
+ ░  ░░ ░   ░    ░    ░   ░  ░░ ░ ░░░ ░ ░  ░    ░ 
+ ░  ░  ░   ░  ░ ░    ░   ░  ░  ░   ░      ░      
+                                               ░                                                                           
+By HEX SOFTWORKS
+VERSION 8.1.0A
+]]--
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/HexerMaster1929/CARMLWARE/main/LOADER.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MrolivesGaming/HexHub/main/LOADER.lua'))()
 ```
