@@ -23,7 +23,7 @@ return {
 			["UPDATED"] = false,
 		}
 	},
-	[606849621] = { -- Vehicle simulator
+	[171391948] = { -- Vehicle simulator
 		["SCRIPT"] = "VEHICLESIMULATOR",
 		["METADATA"] = {
 			["NAME"] = "Vehicle simulator",
