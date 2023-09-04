@@ -7,8 +7,8 @@ return {
 			["THUMBNAIL"] = "rbxassetid://14502082532",
 		},
 		["STATUS"] = {
-			["PATCHED"] = true,
-			["UPDATED"] = false,
+			["PATCHED"] = false,
+			["UPDATED"] = true,
 		}
 	}, 
 	[606849621] = { -- jailbreak
