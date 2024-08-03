@@ -1,3 +1,8 @@
+# NOTICE
+
+This version of hexhub is no longer in use.
+New Repo: https://github.com/MrolivesGaming/HexHub
+
 # ABOUT
 
 HexHub is A New Roblox Hub with tons of games Added daily!
