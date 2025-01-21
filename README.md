@@ -1,7 +1,6 @@
 # NOTICE
 
-This version of hexhub is no longer in use.
-New Repo: https://github.com/MrolivesGaming/HexHub
+This version of hexhub is no longer in use. Visit: https://hub.progressionsoftworks.dev
 
 # ABOUT
 
